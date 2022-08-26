@@ -1,0 +1,74 @@
+.main-headers {
+  background-color: rgb(215, 248, 237);
+  border-radius: 10px;
+  display: flex;
+  width: 100%;
+}
+
+img {
+  height: 250px;
+}
+
+.allModels {
+  display: flex;
+  text-align: center;
+  background-color: rgb(215, 248, 237);
+  height: 600px;
+  border-radius: 10px;
+  width: 100%;
+}
+
+h2 {
+  font-size: 24px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: 1px;
+  margin-left: 400px;
+  margin-top: 60px;
+}
+
+h3 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.btn1 {
+  font-size: 22px;
+  margin-top: 20px;
+  background-color: rgb(250, 226, 182);
+  border-radius: 5px;
+  border-width: 1px;
+  margin-top: 1px;
+}
+
+.btn2 {
+  font-size: 22px;
+  margin-top: 20px;
+  background-color: rgb(250, 226, 182);
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+.btn3 {
+  font-size: 22px;
+  margin-top: 20px;
+  background-color: rgb(250, 226, 182);
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+p {
+  font-size: 17px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-right: 60px;
+  padding-left: 35px;
+  margin-top: 5px;
+}
+
+#legoLogo {
+  height: 90px;
+  padding-left: 38px;
+  margin-top: 8px;
+  margin-bottom: 10px;
+  float: left;
+}
